@@ -1,2 +1,2 @@
 # NaiveBayes_Project
-## Multinomial Naive Bayes
+## Multinomial Naive Bayes uses Bayes theorem to guess the tag of a given text such as an email or a newspaper story. It calculates the likelihood of each possible tag for the given text and then outputs the tag with the highest likelihood as the guess. In other words, it tries to predict the most likely tag for a given text using probability calculations based on a given set of training data.
